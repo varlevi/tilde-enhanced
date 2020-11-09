@@ -74,7 +74,7 @@ const CONFIG = {
     {
       category: 'School',
       name: 'Schoology',
-      key: 's',
+      key: 'sc',
       url: 'https://www.sutori.com/',
       color: 'linear-gradient(135deg, #33373A, #484949)',
       icon: 'devdocs',
@@ -84,7 +84,7 @@ const CONFIG = {
     {
       category: 'School',
       name: 'Trello',
-      key: 's',
+      key: 't',
       url: 'https://www.sutori.com/',
       color: 'linear-gradient(135deg, #33373A, #484949)',
       icon: 'devdocs',
@@ -93,7 +93,7 @@ const CONFIG = {
     {
       category: 'School',
       name: 'History Blog',
-      key: 's',
+      key: 'h',
       url: 'https://www.sutori.com/',
       color: 'linear-gradient(135deg, #33373A, #484949)',
       icon: 'devdocs',
